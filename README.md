@@ -1,12 +1,12 @@
 
-# 🏄‍♂️🖥 👋 Jacob Bernal
+# 🏄‍♂️🖥 👋 Jacobo Bernal
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 Soy Estudiante de ingenieria de software. Tengo 16 años. Me gusta la programacion la electronica y la creación de contenido,
 todos los proyectos son creados paso a paso desde el diseño hasta el desarrollo.
 Todos los tutoriales y el contenido principal esta en mi canal de YouTube "ElectroCode"
-# I'l see you there 👋 🏄‍♂️🖥
+# I'll see you there 👋 🏄‍♂️🖥
 
 ### 🧰 Languages and Tools
 
