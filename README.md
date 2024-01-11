@@ -1,7 +1,5 @@
 
-# 🏄‍♂️🖥 👋 Jacobo Bernal
-
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+# 🏄‍♂️👨🏼‍💻👋 Jacobo Bernal
 
 Soy Estudiante de ingenieria de software. Tengo 16 años. Me gusta la programacion la electronica y la creación de contenido,
 todos los proyectos son creados paso a paso desde el diseño hasta el desarrollo.
