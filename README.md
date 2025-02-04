@@ -3,9 +3,10 @@
 
 **`Mad Coder (Developer/Filmmaker/Creator)`**
 
-Soy Estudiante de ingenieria de software. Tengo 16 años. Me gusta la programacion la electronica y la creación de contenido,
-todos los proyectos son creados paso a paso desde el diseño hasta el desarrollo.
-Todos los tutoriales y el contenido principal esta en mi canal de YouTube "Simple Web Code"
+Soy estudiante de ingeniería de software y electrónica. creo contenido sobre programación, WEB Arduino y más. todos los proyectos son creados por mí desde el diseño hasta el desarrollo. Todos los tutoriales y el contenido principal esta en mi canal de YouTube "Simple Web Code”.
+espero que te sirva todo el contenido que encuentres.
+
+# 🎮 Nos vemos ahí ;)
 
 <p align="left">
       <a href="https://www.youtube.com/c/simplewebcode?sub_confirmation=1">
@@ -23,6 +24,7 @@ Todos los tutoriales y el contenido principal esta en mi canal de YouTube "Simpl
 
 ### 🧰 Tecnologías
 
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -35,11 +37,17 @@ Todos los tutoriales y el contenido principal esta en mi canal de YouTube "Simpl
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
 <br />
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Videos Recientes YouTube
+
+#
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![#unboxing  #asmr  #pc Memoria RAM Kingston Fury Hyper X](https://ytcards.demolab.com/?id=-_WrqZTuEzU&title=%23unboxing++%23asmr++%23pc+Memoria+RAM+Kingston+Fury+Hyper+X&lang=en&timestamp=1736285376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#unboxing  #asmr  #pc Memoria RAM Kingston Fury Hyper X")](https://www.youtube.com/watch?v=-_WrqZTuEzU)
