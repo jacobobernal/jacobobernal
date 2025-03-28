@@ -12,7 +12,7 @@ espero que te sirva todo el contenido que encuentres.
       <a href="https://www.youtube.com/@simplewebcode?sub_confirmation=1">
          <img alt="suscriptores youtube" title="Suscribete a mi canal de YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/simplewebcode?color=%23E05D44&label=SUBSCRIBETE&logo=video&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a> 
       <a href="https://www.youtube.com/@simplewebcode">
-         <img alt="youtube views" title="Vistas YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/[@simplewebcode](https://www.youtube.com/@simplewebcode)?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="youtube views" title="Vistas YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/https://www.youtube.com/channel/UCnLpHGdirO50h6__q_cyH3g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/simplewsoftware?tab=followers">
          <img alt="followers" title="Sigueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/simplewsoftware?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=SIGUEME&logoColor=white"/></a>
       <a href="https://github.com/simplewsoftware?tab=repositories&sort=stargazers">
