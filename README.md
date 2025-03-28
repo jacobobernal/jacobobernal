@@ -10,7 +10,7 @@ espero que te sirva todo el contenido que encuentres.
 
 <p align="left">
       <a href="https://www.youtube.com/c/simplewebcode?sub_confirmation=1">
-         <img alt="suscriptores youtube" title="Suscribete a mi canal de YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnLpHGdirO50h6__q_cyH3g?color=%23E05D44&label=SUBSCRIBETE&logo=video&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a> 
+         <img alt="suscriptores youtube" title="Suscribete a mi canal de YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnLpHGdirO50h6__q_cyH3gcolor=%23E05D44&label=SUBSCRIBETE&logo=video&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a> 
       <a href="https://www.youtube.com/c/simplewebcode">
          <img alt="youtube views" title="YouTube Vistas" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnLpHGdirO50h6__q_cyH3g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a> 
       <a href="https://github.com/simplewsoftware?tab=followers">
