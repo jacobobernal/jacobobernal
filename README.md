@@ -11,7 +11,7 @@ espero que te sirva todo el contenido que encuentres.
 <p align="left">
       <a href="https://www.youtube.com/c/simplewebcode?sub_confirmation=1">
          <img alt="suscriptores youtube" title="Suscribete a mi canal de YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnLpHGdirO50h6__q_cyH3g?color=%23E05D44&label=SUBSCRIBETE&logo=video&logoColor=white&style=for-the-badge&labelColor=4C585B"/></a> 
-      <a href="https://www.youtube.com/c/simplewebcode?views">
+      <a href="https://www.youtube.com/c/UCnLpHGdirO50h6__q_cyH3g">
          <img alt="youtube views" title="Vistas YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCnLpHGdirO50h6__q_cyH3g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Sigueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/simplewsoftware?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=SIGUEME&logoColor=white"/></a>
